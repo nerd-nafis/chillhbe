@@ -1,0 +1,93 @@
+{
+    "friends": [
+        {
+            "name": "Fahim Ahmed",
+            "imageName": "fahimahmed.jpg",
+            "contact": "+8801603751860",
+            "SUNDAY" : [],
+            "MONDAY": [8, 9.5, 11, 14],
+            "TUESDAY": [11, 12.5],
+            "WEDNESDAY" : [8, 9.5, 11, 14],
+            "THURSDAY" : [],
+            "FRIDAY" : [],
+            "SATURDAY" : []
+        },
+        {
+            "name": "Monish Chanda Rudra",
+            "imageName": "monishchandarudra.jpeg",
+            "contact": "+8801777043079",
+            "SUNDAY" : [],
+            "MONDAY": [8, 9.5, 11, 14],
+            "TUESDAY": [11, 12.5],
+            "WEDNESDAY" : [8, 9.5, 11, 14],
+            "THURSDAY" : [],
+            "FRIDAY" : [],
+            "SATURDAY" : []
+        },
+        {
+            "name": "Mahir Abdullah",
+            "imageName": "mahirabdullah.jpeg",
+            "contact": "+8801552316551",
+            "SUNDAY" : [],
+            "MONDAY": [8, 9.5, 11, 14],
+            "TUESDAY": [11, 12.5],
+            "WEDNESDAY" : [8, 9.5, 11, 14],
+            "THURSDAY" : [],
+            "FRIDAY" : [],
+            "SATURDAY" : []
+        },
+
+        {
+            "name": "Adnan Shafin",
+            "imageName": "adnanshafin.jpg",
+            "contact": "+8801627445940",
+            "SUNDAY" : [8,9.5],
+            "MONDAY": [],
+            "TUESDAY": [8,9.5],
+            "WEDNESDAY" : [],
+            "THURSDAY" : [9.5, 12.5, 14, 15.5],
+            "FRIDAY" : [],
+            "SATURDAY" : [9.5, 12.5, 14, 15.5]
+        },
+        
+        {
+            "name": "Izaz Alam",
+            "imageName": "izazalam.jpeg",
+            "contact": "+8801603751860",
+            "SUNDAY" : [8, 9.5, 14],
+            "MONDAY": [8, 9.5],
+            "TUESDAY": [8, 14],
+            "WEDNESDAY" : [],
+            "THURSDAY" : [9.5, 12.5],
+            "FRIDAY" : [],
+            "SATURDAY" : [9.5, 12.5]
+
+        },
+
+        {
+            "name": "Samiul Nihal",
+            "imageName": "samiulnihal.jpeg",
+            "contact": "+8801538386792",
+            "SUNDAY" : [8, 9.5, 11, 12.5],
+            "MONDAY": [8, 9.5, 14, 15.5],
+            "TUESDAY": [],
+            "WEDNESDAY" : [],
+            "THURSDAY" : [],
+            "FRIDAY" : [],
+            "SATURDAY" : []
+        }
+        ,
+        {
+            "name": "Sohanur Shimul",
+            "imageName": "shohanurshimul.jpeg",
+            "contact": "+8801745803030",
+            "SUNDAY" : [11],
+            "MONDAY": [8, 9.5, 11],
+            "TUESDAY": [11],
+            "WEDNESDAY" : [9, 9.5, 11],
+            "THURSDAY" : [11, 14, 15,5],
+            "FRIDAY" : [],
+            "SATURDAY" : [11, 14, 15.5]
+        }
+    ]
+}
