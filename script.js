@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                   if (isFree) {
                       const card = document.createElement("div");
-                      card.className = "card mb-3 border border-white";
+                      card.className = "card mb-3";
                       card.style.maxWidth = "540px";
 
                       card.innerHTML = `
