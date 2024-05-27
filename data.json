@@ -101,6 +101,18 @@
             "THURSDAY" : [],
             "FRIDAY" : [],
             "SATURDAY" : []
+        },
+        {
+            "name": "Lotifur Shabbir",
+            "imageName": "lotifurshabbir.jpeg",
+            "contact": "+8801316575426",
+            "SUNDAY" : [8, 11, 12.5, 17],
+            "MONDAY": [8, 9.5, 11, 12.5],
+            "TUESDAY": [8, 17],
+            "WEDNESDAY" : [9.5],
+            "THURSDAY" : [8],
+            "FRIDAY" : [],
+            "SATURDAY" : [8]
         }
     ]
 }
