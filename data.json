@@ -27,7 +27,7 @@
         {
             "name": "Mahir Abdullah",
             "imageName": "mahirabdullah.jpeg",
-            "contact": "+8801552316551",
+            "contact": "+8801328827556",
             "SUNDAY" : [],
             "MONDAY": [8, 9.5, 11, 14],
             "TUESDAY": [11, 12.5],
@@ -88,6 +88,19 @@
             "THURSDAY" : [11, 14, 15,5],
             "FRIDAY" : [],
             "SATURDAY" : [11, 14, 15.5]
+        }
+        ,
+        {
+            "name": "Imteaz Sajid",
+            "imageName": "imteazsajid.jpeg",
+            "contact": "+8801848643006",
+            "SUNDAY" : [8, 14, 15.5],
+            "MONDAY": [12.5, 17],
+            "TUESDAY": [8],
+            "WEDNESDAY" : [8, 9.5, 12.5, 17],
+            "THURSDAY" : [],
+            "FRIDAY" : [],
+            "SATURDAY" : []
         }
     ]
 }
